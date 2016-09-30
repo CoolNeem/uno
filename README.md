@@ -9,3 +9,5 @@ als je veel over elektricitit en techniek wilt leren dan moet je
 echt naar
 
 De Jonge Onderzoekers!
+
+er zijn veel lessen een helleboel moeilijke
