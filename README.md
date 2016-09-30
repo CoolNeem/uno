@@ -14,3 +14,5 @@ er zijn moeilijke lessen het auto karretje is het
 moeilijkste
 
 # uno en broodborden
+
+![voor uno] (kool bord.jpg)
