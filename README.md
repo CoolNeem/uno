@@ -10,4 +10,5 @@ echt naar
 
 De Jonge Onderzoekers!
 
-er zijn veel lessen een helleboel moeilijke
+er zijn moeilijke lessen het auto karretje is het
+moeilijkste
