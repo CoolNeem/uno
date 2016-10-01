@@ -17,3 +17,5 @@ moeilijkste
 
 ![voor uno] (kool bord.jpg)
 er is zo veel om te doen
+
+je kunt boven soldiren,maar ook beneden.
