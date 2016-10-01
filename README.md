@@ -19,3 +19,5 @@ moeilijkste
 er is zo veel om te doen
 
 je kunt boven soldiren,maar ook beneden.
+ 
+er zijn 14 lessen.makelijke en moeilijke.
