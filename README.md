@@ -1,4 +1,5 @@
- da,
+
+da,
 # uno
 over arduino
 
@@ -35,4 +36,4 @@ je kunt niet alleen arduino doen, maar ook processing.
  
 met processing  kun je game's maken,maar ook met arduino,maar dat is moeilijker dan processing.
 
-
+het wifi wachtwoord van de jonge onderzoekers is DOJG1402 
