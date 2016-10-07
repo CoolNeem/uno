@@ -26,3 +26,4 @@ makelijke en moeilijke.
 
 je kunt dingen zien zoals lessen op
 
+Dit is mijn favoriete website: [die van Richel](http://www.richelbilderbeek.nl)
