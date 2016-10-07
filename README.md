@@ -1,5 +1,3 @@
-
-da,
 # uno
 over arduino
 
