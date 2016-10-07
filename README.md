@@ -1,4 +1,4 @@
-,
+ da,
 # uno
 over arduino
 
@@ -33,4 +33,6 @@ i love it !
 
 je kunt niet alleen arduino doen, maar ook processing.
  
-met processing  kun je game's maken,maar ook met arduino,maar dat is moeilijker
+met processing  kun je game's maken,maar ook met arduino,maar dat is moeilijker dan processing.
+
+
