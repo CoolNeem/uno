@@ -29,8 +29,8 @@ je kunt dingen zien zoals lessen op
 
 Dit is mijn favoriete website: [die van Richel](http://www.richelbilderbeek.nl)
 
-i love it 
+i love it !
 
-je kunt niet alleen arduino doen, maar ook processing
-
-
+je kunt niet alleen arduino doen, maar ook processing.
+ 
+met processing  kun je game's maken 
