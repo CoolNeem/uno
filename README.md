@@ -31,4 +31,6 @@ Dit is mijn favoriete website: [die van Richel](http://www.richelbilderbeek.nl)
 
 i love it 
 
+je kunt niet alleen arduino doen, maar ook processing
+
 
