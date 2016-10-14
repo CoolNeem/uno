@@ -35,9 +35,7 @@ je kunt niet alleen arduino doen, maar ook processing.
 met processing  kun je game's maken,maar ook met arduino,maar dat is moeilijker dan processing.
 
 het wifi wachtwoord van de jonge onderzoekers is DOJG1402 
-
-dit is les 1:
-
+```
 int led = 13;
 
 
@@ -54,3 +52,4 @@ delay(1000);
 digtalWrite(led, LOW);
 delay(1000);
 }
+```
