@@ -18,11 +18,11 @@ moeilijkste
 ![voor uno] (kool bord.jpg)
 er is zo veel om te doen
 
-je kunt boven soldiren,maar ook beneden.
+je kunt boven solderen,maar ook beneden.
  
 er zijn 14 lessen.
 
-makelijke en moeilijke.
+makkelijke en moeilijke.
 
 je kunt dingen zien zoals lessen op
 
