@@ -1,8 +1,9 @@
+
 # uno
 over arduino
 
 dit is speciaal voor arduino.
-soms komen er plaatjes maar er is vooral tekst
+soms komen er plaatjes maar er is vooral tekst.
 ![voor uno] (voor uno.jpg)
 je kunt veel info vinden op de jonge onderzoekers!
 als je veel over elektricitit en techniek wilt leren dan moet je 
@@ -11,12 +12,12 @@ echt naar
 De Jonge Onderzoekers!
 
 er zijn moeilijke lessen het auto karretje is het
-moeilijkste
+moeilijkste.
 
 # uno en broodborden
 
 ![voor uno] (kool bord.jpg)
-er is zo veel om te doen
+er is zo veel om te doen,
 
 je kunt boven solderen,maar ook beneden.
  
@@ -34,7 +35,7 @@ je kunt niet alleen arduino doen, maar ook processing.
  
 met processing  kun je game's maken,maar ook met arduino,maar dat is moeilijker dan processing.
 
-het wifi wachtwoord van de jonge onderzoekers is DOJG1402 
+het wifi wachtwoord van de jonge onderzoekers is DOJG1402.
 ```
 int led = 13;
 
@@ -53,3 +54,4 @@ digtalWrite(led, LOW);
 delay(1000);
 }
 ```
+als je iets niet snapt vraag je gewoon naar richel,anko of peter.
