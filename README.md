@@ -25,6 +25,10 @@ er zijn 14 lessen.
 
 makkelijke en moeilijke.
 
+ je alle lessen af heb krijg je een certificaat.
+
+aleen noemie en amia hebbe een certificaat.
+
 je kunt dingen zien zoals lessen op
 
 Dit is mijn favoriete website: [die van Richel](http://www.richelbilderbeek.nl)
@@ -55,3 +59,4 @@ delay(1000);
 }
 ```
 als je iets niet snapt vraag je gewoon naar richel,anko of peter.
+
