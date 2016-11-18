@@ -1,5 +1,3 @@
-
-
 # uno
 over arduino
 
@@ -64,4 +62,34 @@ als je iets niet snapt vraag je gewoon naar richel,anko of peter.
 ```
 dit is de code van les 4:
 
-int
+int fsrAnalogePin = 0;
+
+int LEDpin = 11;
+
+int fsrWaarde;
+
+int LEDhelderheid
+
+
+void setup() {
+
+Serial.begin(9600);
+
+pinMode(LEDpin, OUTPUT);
+
+}
+
+void loop() {
+
+fsrWaarde = analogRead(fsranalogePin);
+
+Seral.print("Analoge waarde = ");
+
+Seral.println(fsrWaarde);
+
+LEDhelderheid = map(fsrWaarde,0 1023, 0,  255);
+
+anlogWrite(LEDpin, Ledhelderheid);
+
+delay(100);
+```
