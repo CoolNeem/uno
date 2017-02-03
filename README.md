@@ -68,6 +68,7 @@ int LEDpin = 11;
 
 int fsrWaarde;
 
+
 int LEDhelderheid
 
 
@@ -105,6 +106,7 @@ void setup() {
 for (int thisPin = 2; tishPin < 8; thisPin++) {
 
  }
+ 
 }
 
 void loop() {
@@ -129,6 +131,6 @@ delay(timer);
 digitalWrite(thisPin, LOW);
 
  }
+ 
 }
-
 ```
