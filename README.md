@@ -60,8 +60,7 @@ delay(1000);
 ```
 als je iets niet snapt vraag je gewoon naar richel,anko of peter.
 
-```
-dit is de code van les 4:
+```dit is de code van les 4:
 
 int fsrAnalogePin = 0;
 
@@ -106,7 +105,6 @@ void setup() {
 for (int thisPin = 2; tishPin < 8; thisPin++) {
 
  }
- 
 }
 
 void loop() {
@@ -131,7 +129,6 @@ delay(timer);
 digitalWrite(thisPin, LOW);
 
  }
- 
 }
 
 ```
