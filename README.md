@@ -95,10 +95,10 @@ anlogWrite(LEDpin, Ledhelderheid);
 delay(100);
 ```
 
-```
+
 
 les 1d
-
+```
 int timer = 100;
 
 void setup() {
