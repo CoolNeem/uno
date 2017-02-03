@@ -50,6 +50,7 @@ pinMode(led, OUTPUT);
 
 
 
+
 void loop(){
 digitalWrite(led, HIGH);
 delay(1000);
@@ -92,4 +93,45 @@ LEDhelderheid = map(fsrWaarde,0 1023, 0,  255);
 anlogWrite(LEDpin, Ledhelderheid);
 
 delay(100);
+```
+
+```
+
+les 1d
+
+int timer = 100;
+
+void setup() {
+
+for (int thisPin = 2; tishPin < 8; thisPin++) {
+
+ }
+ 
+}
+
+void loop() {
+
+for (int thisPin = 2; tishPin < 8; thisPin++) {
+
+digitalWrite(thisPin, HIGH);
+
+delay(timer);
+
+digitalWrite(thisPin, LOW);
+
+}
+
+
+for (int thisPin = 2; tishPin < 8; thisPin--) {
+
+digitalWrite(thisPin, HIGH);
+
+delay(timer);
+
+digitalWrite(thisPin, LOW);
+
+ }
+ 
+}
+
 ```
