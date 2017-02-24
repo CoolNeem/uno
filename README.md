@@ -67,6 +67,7 @@ int fsrAnalogePin = 0;
 
 int LEDpin = 11;
 
+
 int fsrWaarde;
 
 
@@ -135,3 +136,16 @@ digitalWrite(thisPin, LOW);
  
 }
 ```
+
+servo Motor
+
+```
+LES 3
+
+#include <Servo.h>
+
+Servo mijnServo;
+
+int pos = 0;
+
+void setup
